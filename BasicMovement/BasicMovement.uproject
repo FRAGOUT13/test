@@ -1,0 +1,13 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.3",
+    "Category": "Games",
+    "Description": "A simple basic movement example using Unreal Engine C++.",
+    "Modules": [
+        {
+            "Name": "BasicMovement",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
